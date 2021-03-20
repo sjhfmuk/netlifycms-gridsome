@@ -2,7 +2,7 @@
 	<div class="author">
 
 		<h1 v-if="showTitle" class="author__site-title">
-			{{ $static.metadata.siteName }}
+			samjhiggins.co.uk
 		</h1>
 
 		<p class="author__intro">
@@ -11,7 +11,7 @@
 
 		<p class="author__links">
 			<a href="//twitter.com/suits_at">@samjhiggins</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
+			<a href="https://github.com/sjhfmuk">GitHub</a>
 			<a href="https://github.com/suits-at/netlifycms-gridsome">LinkedIn</a>
 		</p>
 
