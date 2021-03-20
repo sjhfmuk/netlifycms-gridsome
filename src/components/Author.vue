@@ -5,12 +5,11 @@
 		</h1>
 
 		<p class="author__intro">
-			{{ $static.metadata.siteDescription }}
+			A record of my projects, ideas and things I'm trying out that might be useful to somebody else.
 		</p>
 
 		<p class="author__links">
 			<a href="">@samjhiggins</a>
-			<a href="https://github.com/sjhfmuk">GitHub</a>
 		</p>
 	</div>
 </template>
