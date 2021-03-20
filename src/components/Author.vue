@@ -1,20 +1,17 @@
 <template>
 	<div class="author">
-
 		<h1 v-if="showTitle" class="author__site-title">
-			samjhiggins.co.uk
+			{{ $static.metadata.siteName }}
 		</h1>
 
 		<p class="author__intro">
-			Just a record of my projects, ideas and stuff I'm trying out.
+			{{ $static.metadata.siteDescription }}
 		</p>
 
 		<p class="author__links">
 			<a href="//twitter.com/suits_at">@samjhiggins</a>
 			<a href="https://github.com/sjhfmuk">GitHub</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">LinkedIn</a>
 		</p>
-
 	</div>
 </template>
 
