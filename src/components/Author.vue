@@ -6,7 +6,7 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			Just a record of my projects, ideas and stuff I'm trying out.
 		</p>
 
 		<p class="author__links">
