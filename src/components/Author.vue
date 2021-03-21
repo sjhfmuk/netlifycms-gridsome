@@ -9,7 +9,7 @@
 		</p>
 
 		<p class="author__links">
-			<a href="">@samjhiggins</a>
+			<a href="https://twitter.com/samjhiggins">@samjhiggins</a>
 		</p>
 	</div>
 </template>
